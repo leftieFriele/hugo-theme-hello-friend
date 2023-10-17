@@ -9,26 +9,20 @@
     height: 44px;
   }
 
-  &__mark {
+  /*&__mark {
     display: inline-flex;
     align-items: center;
     margin-right: 5px;
 
     @include greater-icon(8px);
-  }
+  }*/
 
   &__text {
     font-size: 1.125rem;
   }
 
   &__cursor {
-    display: inline-block;
-    width: 10px;
-    height: 1rem;
-    background: #fe5186;
-    margin-left: 5px;
-    border-radius: 1px;
-    animation: cursor 1s infinite;
+
   }
 }
 
