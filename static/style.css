@@ -1,0 +1,8 @@
+figure.left {
+  display: inline;
+}
+figure.left img {
+  float: left;
+  padding: 6px 20px 20px 0;
+  border-radius: 4px;
+}
